@@ -3,11 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Jay Sivakumaran> -- <Web Developer> -- <@CodeConstructor>
 
-# THANKS
-
-    <name>
 
 # TECHNOLOGY COLOPHON
 
